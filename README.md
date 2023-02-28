@@ -1,6 +1,6 @@
 # SQuAD-QA 
 ## Code to evaluate BERT QA model
-Expeirmenting BERT QA models on SQuAD1.1 dataset
+Experimenting BERT QA models on SQuAD1.1 dataset
 
 The code is inspired from other available public repositories collected and stored for my experiment.<br>
 just download the repo and evaluate the custom qa model and can visualize teh accuracy<br>
